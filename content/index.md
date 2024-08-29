@@ -1,32 +1,21 @@
-# Tolkien Fan Club
+# Western Philosophy
 
-**I like Tolkien**. Read my [first post here](/majesty)
+**Pre-Socratic Philosophy**. in detail [here](/majesty)
 
-> All that is gold does not glitter
+> Panta Rhei
 
-## Reasons I like Tolkien
+## Thales, aka Father of Philosophy
 
-* You can spend years studying the legendarium and still not understand its depths
-* It can be enjoyed by children and adults alike
-* Disney *didn't ruin it*
-* It created an entirely new genre of fantasy
+* Predicted solar eclipse(probably through his education in Babylon).
+* He could calculate distance between ships and beach.
+* He thought everything was created by water.
+* He is one of the Seven Sages in Hellenic Culuture.
 
-## My favorite characters (in order)
+## My favorite Pre-Socratics
 
-1. Gandalf
-2. Bilbo
-3. Sam
-4. Glorfindel
-5. Galadriel
-6. Elrond
-7. Thorin
-8. Sauron
-9. Aragorn
-
-Here's what `elflang` looks like (the perfect coding language):
-
-```
-func main(){
-    fmt.Println("Hello, World!")
-}
-```
+1. Heraclitus
+2. Callicles
+3. Pythagoras
+4. Protagoras
+5. Anaximender
+6. Parmenides
